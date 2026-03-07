@@ -32,7 +32,7 @@
 		},
 		"validLocStart": {
 			"name": "markup",
-			"match": "\\b\\w+:"
+			"match": "\\b\\w+:[0-9]\\b"
 		},
 		"invvalidLocStart": {
 			"name": "invalid.illegal",
@@ -66,7 +66,7 @@
 		"strings": {
 			"name": "string.quoted.double.yamlp",
 			"begin": "\"",
-			"end": "\"",
+			"end": "\"|\\n",
 			"patterns": [
 				{
 					"name": "constant.character.escape.yamlp",
