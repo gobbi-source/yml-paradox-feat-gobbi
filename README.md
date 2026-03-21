@@ -1,6 +1,6 @@
 # yml-paradox README
 
-**ISN'T THEME this NOT interfence with other languages or your preferite theme.**
+**This widget, only the highlighting effects in YML files. It isn't theme: does NOT interfere with other languages or with your preferred theme.**
 
 [github](https://github.com/gobbi-source/yml-paradox-feat-gobbi)
 
