@@ -55,6 +55,10 @@ Fix the propagation of the syntax type across multiple lines.
 
 Fix identifier with number that was red (example test:0 , 0 was red now is normal text markup)
 
+### 1.0.2
+
+Add auto closing pairs
+
 ## Who is I
 
 I'am developper with 1 child and few work, so an donation is ever appreciate. [Paypal](https://paypal.me/ChristianGobbi)

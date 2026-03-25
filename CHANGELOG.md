@@ -25,9 +25,22 @@ Only colors in § are customize rest get by your personal theme.
 
 ## [1.0.1] 07/03/2026
 
+### Fix
+Fix the propagation of the syntax type across multiple lines.
+
+Fix identifier with number that was red (example test:0 , 0 was red now is normal text markup)
+
+## [1.0.2] 25/03/2026
+
 ### Added
 
-### Changed
+auto closing pairs:
+["§", "§!"],
+["\"", "\""],
+["$", "$"],
+["[", "]"],
+["£", "£"]
+
 
 Redme.md
 
