@@ -49,3 +49,10 @@ Redme.md
 ### Fixed
 - Fix the propagation of the syntax type across multiple lines: when the type is either incorrect or intentionally truncated, the propagation now stops at the end of the line.
 - Fix identifier loc test:0 "" now 0 is valid: The new pattern now only accepts a single numeric digit (0–9) immediately after the colon.
+
+## [1.0.3] 18/06/2026
+
+### Removed
+Remove blockComment see that not is supported by yml paradox
+
+
