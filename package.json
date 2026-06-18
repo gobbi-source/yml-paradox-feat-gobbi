@@ -4,7 +4,7 @@
   "description": "yml support for paradox, in configuration set editor.semanticHighlighting.enabled",
   "publisher": "gobbibomb",
   "icon": "images/thumbnail.jpg",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.109.0"
   },
