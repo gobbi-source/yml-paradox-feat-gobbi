@@ -52,7 +52,8 @@ Redme.md
 
 ## [1.0.3] 18/06/2026
 
-### Removed
-Remove blockComment see that not is supported by yml paradox
+### Fixed
+Fixed blockComment now multiline with #
+Fixed autoClosingPairs
 
 
